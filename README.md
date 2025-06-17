@@ -63,7 +63,7 @@ The project included usability testing, identifying key issues post-launch, and 
 ## 📁 Deliverables
 
 - 🎨 **Adobe XD Prototype**  
-  📥 [Click here to View or Download from OneDrive](https://1drv.ms/u/c/2204226c0be32991/Efs7YN11Q8NFu7NHgCFU_JABH4Bb5TF4Xcy5AQEyEk9zLw?e=PcSRfL)  
+  📥 [Click here to View or Download from OneDrive](https://1drv.ms/u/c/2204226c0be32991/Efs7YN11Q8NFu7NHgCFU_JABviqGNRBxAq5m2HeZm_c9Ew?e=35LFlj)  
   *Note: Hosted externally due to GitHub’s file size limitations.*
 
 - 🔁 Troubleshooting Flowcharts  
